@@ -39,7 +39,7 @@ export default function Footer() {
             </div>
 
             {/* Email */}
-            <div className="flex items-center justify-center md:justify-start gap-4 group">
+            {/* <div className="flex items-center justify-center md:justify-start gap-4 group">
               <Mail className="text-blue-500" size={22} />
               <Link
                 href="mailto:contato@melodiamusical.com.br"
@@ -47,7 +47,7 @@ export default function Footer() {
               >
                 contato@melodiamusical.com.br
               </Link>
-            </div>
+            </div> */}
 
             {/* Endereço */}
             <div className="flex items-start justify-center md:justify-start gap-4 group">
